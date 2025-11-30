@@ -1,0 +1,5 @@
+{
+  "name": "UAI Negocios Digitales Assistant",
+  "description": "An AI onboarding assistant for the Negocios Digitales course at UAI, helping students understand the syllabus, evaluation methods, and tools.",
+  "requestFramePermissions": []
+}
